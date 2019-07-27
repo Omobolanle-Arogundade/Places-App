@@ -1,5 +1,8 @@
 {
-  "name": "Recipe Book",
-  "integrations": {},
+  "name": "Places App",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
   "type": "angular"
 }
